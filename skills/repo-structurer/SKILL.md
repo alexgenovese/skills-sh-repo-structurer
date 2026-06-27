@@ -1,3 +1,11 @@
+---
+name: repo-structurer
+description: "Use this skill when the user wants to scaffold, validate, or restructure a repository for an AI agent or a skill following the skills.sh / Agent Skills spec. Also use when the user asks 'is my repo structure correct?', 'create a new agent repo', 'create a new skill repo', 'scaffold a skill', or wants to validate a SKILL.md or AGENTS.md file."
+metadata:
+  version: 1.0.0
+  author: Alex Genovese
+---
+
 # Skill: repo-structurer
 
 Use this skill when the user wants to scaffold, validate, or restructure a repository for an AI agent or a skill following the skills.sh / Agent Skills spec.
