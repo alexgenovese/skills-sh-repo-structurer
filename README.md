@@ -1,4 +1,4 @@
-# repo-structurer
+# Repo Structurer for Skills.sh
 
 [![skills.sh](https://skills.sh/b/alexgenovese/skills-sh-repo-structurer)](https://skills.sh/alexgenovese/skills-sh-repo-structurer)
 
