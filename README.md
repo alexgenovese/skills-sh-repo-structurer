@@ -1,5 +1,7 @@
 # repo-structurer
 
+[![skills.sh](https://skills.sh/b/owner/repo)](https://skills.sh/owner/repo)
+
 A meta-skill for scaffolding and validating agent or skill repositories following the [skills.sh](https://skills.sh) specification.
 
 [![Install with skills](https://img.shields.io/badge/skills.sh-install-blue)](https://skills.sh)
